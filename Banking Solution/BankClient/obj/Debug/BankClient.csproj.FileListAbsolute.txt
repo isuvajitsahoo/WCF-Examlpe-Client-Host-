@@ -1,0 +1,10 @@
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\bin\Debug\BankClient.exe.config
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\bin\Debug\BankClient.exe
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\bin\Debug\BankClient.pdb
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\obj\Debug\BankClient.csprojAssemblyReference.cache
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\obj\Debug\BankClient.Form1.resources
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\obj\Debug\BankClient.Properties.Resources.resources
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\obj\Debug\BankClient.csproj.GenerateResource.cache
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\obj\Debug\BankClient.csproj.CoreCompileInputs.cache
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\obj\Debug\BankClient.exe
+C:\Users\suvasaho\source\repos\Banking Solution\BankClient\obj\Debug\BankClient.pdb

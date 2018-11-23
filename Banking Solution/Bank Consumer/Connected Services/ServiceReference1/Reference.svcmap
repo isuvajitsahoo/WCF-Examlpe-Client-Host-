@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="de242ca1-43ea-4d84-8c68-4745ef94950d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/BankHost/BankService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="4daf1d57-e67f-4696-9ce6-9a41578c5c91" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BankHost/BankService/?xsd=xsd0" />
+    <MetadataFile FileName="Bank.wsdl" MetadataType="Wsdl" ID="0933bd32-3c57-4261-8a16-6a11f1cdfc24" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BankHost/BankService/?wsdl" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="91683d30-8ed9-4b57-90b3-4d6b5cf4d70b" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BankHost/BankService/?disco" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="509ab543-7daf-42b6-a319-f5ae37ae30bf" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BankHost/BankService/?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

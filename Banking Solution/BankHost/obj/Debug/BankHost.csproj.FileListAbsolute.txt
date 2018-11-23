@@ -1,0 +1,2 @@
+C:\Users\suvasaho\source\repos\Banking Solution\BankHost\bin\Debug\BankHost.exe
+C:\Users\suvasaho\source\repos\Banking Solution\BankHost\bin\Debug\BankClassLibrary.dll
